@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Link, Navigate } from "react-ro
 import { useState, useEffect } from "react";
 import Home from "./pages/home";
 import Login from "./pages/login";
-import Register from "./pages/Register";
+import Register from "./pages/register";
 import AdminDashboard from "./pages/adminDashboard";
 import ExploreMovies from "./pages/exploreMovies";
 import BookTickets from "./pages/bookTickets";
